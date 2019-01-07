@@ -15,7 +15,7 @@ Ho, and as you noticed, we are not alone here, besides you and me we also have
 1. T:
 Grouchy,
 1. G:
-Hey,
+Hey.
 1. T:
 Grouchy is a software veteran, he has been writing software since the ’70s.
 1. T:
@@ -23,13 +23,13 @@ He has seen it all, and he is a little stubborn, though, deep inside, he is open
 1. T:
 Newbie,
 1. N:
-Hey,
+Hey.
 1. T:
 He is fresh out of college, He is about to start his first job as a software developer, and he is very excited about that.
 1. T:
 And Sharp
 1. S:
-Hi,
+Hi.
 1. T:
 Well, she is sharp. A talented developer with 5 years of experience.
 1. T:
