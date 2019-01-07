@@ -13,8 +13,7 @@ The refactoring book
 Right, refactoring is the art of changing the internal structure of the code while keeping its behavior unchanged.
 1. G:
 Wow, wow, wow, what is this nonsense, why do you have to re-invent everything. We also did this Refactoring, we just called it Rewrite!
-1. 
-Rewrite, is when you clean up the mess after you write the code. 
+Rewrite, is when you clean up the mess after you write the code.
 When you rewrite you fix the design and keep the behavior, just this time you write the code the right way.
 1. T:
 You’re raising a very good question. What is the difference between refactoring and rewrite?
@@ -29,7 +28,7 @@ Well, this Refactoring practice sounds exactly like Rewrite to me. The essence o
 Ok, Ok, these are good questions, let me try to explain. 
 For me, Refactoring is like playing a game. I call this game Customer is In the Room.
 When I refactor, a customer or any other stakeholder can always, at any point in time, challenge me to run under development software and I will be able to run the current code I’m working on, without any delays. 
-With rewrite, you can’t do that. You will only be able to run the software when you are done rewriting the unit. Now, thats a big difference.
+With rewrite, you can’t do that. You will only be able to run the software when you are done rewriting the unit. Now, that's a big difference.
 1. G:
 Without any delays?! Without any delays?!! Let me tell you, young man, I’ve been in the software industry long enough to know there is no “without any delays” in software. 
 You need to finish the change, you need to debug, you need to test, you need to fix all the defects, only then you can run the software.
