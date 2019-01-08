@@ -14,7 +14,7 @@ This series of episodes is all about refactoring. One of the most important prog
 1. I:
 For me it’s a fact, Refactoring completely changed the way I approach software development. 
 1. I:
-It changed my life, it might as well change yours.
+It changed my life, it may change yours.
 1. I:
 BTW, I’m Dr. Code, and I’ll be your instructor.
 1. I:
