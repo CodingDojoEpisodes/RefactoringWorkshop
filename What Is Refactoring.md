@@ -43,7 +43,7 @@ Each transformation is a tiny change to the code’s structure that is promised 
 Since it takes no more than a few seconds to perform these transformations, my software is always valid and I can always run my current ‘under-development’ code.
 1. G:<br>
 Micro-steps!?. I just don’t understand why would you choose to work like that.
-1. Breaking the change into such tiny steps seem so inefficient. There must be a price in time or effort you pay with this approach!
+Breaking the change into such tiny steps seem so inefficient. There must be a price in time or effort you pay with this approach!
 1. I:<br>
 If there is something I learned about software development in the last 30 years it is that the smaller the steps you take, the faster and safer the progress is!
 Most IDEs today support refactoring by offering a wide range of automated refactoring transformations. 
