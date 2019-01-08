@@ -43,4 +43,5 @@ Micro-steps!?. I just don’t understand why would you choose to work like that.
 If there is something I learned about software development in the last 30 years it is that the smaller the steps you take, the faster and safer the progress is!
 Most IDEs today support refactoring by offering a wide range of automated refactoring transformations. 
 To my experience, when I refactor, I go safer and faster than rewrite. Much faster.
+1. T:<br>
 Let me show you how it is done
