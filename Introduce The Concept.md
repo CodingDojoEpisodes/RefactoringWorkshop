@@ -45,6 +45,8 @@ They will ask the hard questions and take part in the discussion.
 Now, you may ask yourself, why are we all animated characters.
 1. N:
 Wow, wow, wait a minute! What do you mean by animated characters? Are you suggesting we’re not real?
+1. S:
+Oh, trust me, I'm a 100% real!
 1. I:
 I’m so sorry, I had no clue you are not aware. 
 1. T:
