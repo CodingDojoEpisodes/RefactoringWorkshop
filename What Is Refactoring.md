@@ -9,7 +9,6 @@ Refactoring, Refactoring… what is refactoring?
 Refactoring is when you clean up the mess after you write the code.
 1. N:<br>
 Refactoring is when you use all those advanced editing tools in the IDE like rename and extract method.
-Names of refactorings
 1. S:<br>
 I know, refactoring is when you change the internal structure of the code without changing its behavior.
 The refactoring book
@@ -46,7 +45,8 @@ Since it takes no more than a few seconds to perform these transformations, my s
 Micro-steps!?. I just don’t understand why would you choose to work like that.
 Breaking the change into such tiny steps seem so inefficient. There must be a price in time or effort you pay with this approach!
 1. I:<br>
-Well, I can surely understand way someone may perceive this approach to be somewhat expensive. It takes a lot of dicipline and practice before before we can truely enjoy the fruits of this skill. The temptation to just cleanup the mess by one big rewarite is always there as well as the illusion of speed. Have you considered the risk in rewriting an already working software? How many new difects will you introduce, how many days or weeks will it take to restabilize the system? With rewrite, can you realy predict the price?
+Well, I can surely understand why someone may perceive this approach to be somewhat expensive. It takes a lot of discipline and practice before we can truely enjoy the fruits of this skill. 
+The temptation to just cleanup the mess by one big rewarite is always there as well as the illusion of speed. Have you considered the risk in rewriting an already working software? How many new difects will you introduce, how many days or weeks will it take to restabilize the system? With rewrite, can you realy predict the price?
 
 If there is something I learned about software development in the last 30 years it is that the smaller the steps you take, the faster and safer the progress is!
 Most IDEs today support refactoring by offering a wide range of automated refactoring transformations. 
