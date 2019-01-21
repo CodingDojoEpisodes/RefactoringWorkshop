@@ -49,7 +49,6 @@ Well, I can surely understand why someone may perceive this approach to be somew
 It takes a lot of discipline and practice before we can truly enjoy the fruits of this skill. 
 The temptation to just clean up the mess by one big rewrite is always there as well as the illusion of speed. 
 Have you considered the risk in rewriting an already working software? How many new defects will you introduce, how many days or weeks will it take to restabilize the system? With rewrite, can you really predict the price?
-
 If there is something I learned about software development in the last 30 years it is that the smaller the steps you take, the faster and safer the progress is!
 Most IDEs today support refactoring by offering a wide range of automated refactoring transformations. 
 To my experience, when I refactor, I go safer and faster than rewrite. Much faster.
