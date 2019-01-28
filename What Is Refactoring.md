@@ -55,9 +55,9 @@ To my experience, when I refactor, I go safer and faster than rewrite. Much fast
 1. S:
 On my team, we have many automated tests, you know, like unit tests and system tests. As with all changes, when we need to rewrite or improve the implementation of some unit, we make the change in a separate branch and we only merge it into the main trunk after all the tests pass. So my question is since we already have good safety mechanisms, why should we refactor on top on that and not simply make the nececcery changes as we do today? After all, refactoring is a slower method of implementing the change, no?!
 1. I:
-A very good question. First, you don't have to refactor. As I've already mentioned, the reason I refactor, is that for me it is both faster and safer. Adding another safety mechanism is never a bad idea especially if it doesn't slow you down. 
+I'm glad you asked. First, you don't have to refactor. As I've already mentioned, I refactor since for me refactoring is both safer and faster. Adding another safety mechanism is never a bad idea especially if it doesn't slow you down. 
 Then, there's the advantage of pain-less, risk-less integration. I believe we all have experienced integration pain as result of conflicts when trying to merge a big change. With refactoring it doesn't happen. Since the code is always valid, I tend to merge into the main branch every few minutes. Obviously it is impossible to have a significant conflict and when each of the merged changes is by itself of an insignificant size.
-More than that, since I merge so frequent, I always have the option to end the refactoring activity and move on to another task without losing the effort that was already made. With the big change approach, since you can only integrate at the end, it is much harder to pivot to another task when needed without losing work.
+More than that, since I merge so frequent, I always have the option to end the refactoring activity and move on to another task without losing the effort that was already made. With the big change approach, since you mostly integrate at the end, it is much harder to pivot to another task without losing work.
 1. N:
 This is all too abstract, I think a demo could help a lot.
 1. I:
