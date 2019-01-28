@@ -15,7 +15,7 @@ The refactoring book
 1. I:
 Right, refactoring is the art of changing the internal structure of the code while keeping its behavior unchanged.
 1. G:
-Wow, wow, wow, what is this nonsense, why do you have to re-invent everything. We also did this Refactoring, we just called it Rewrite!
+Whoa, Whoa, Whoa, what is this nonsense, why do you have to re-invent everything. We also did this Refactoring, we just called it Rewrite!
 Rewrite, is when you clean up the mess after you write the code.
 When you rewrite you fix the design and keep the behavior, just this time you write the code the right way.
 There is no differenct between refactoring and rewrite!
