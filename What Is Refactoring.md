@@ -52,5 +52,15 @@ Have you considered the risk in rewriting an already working software? How many 
 If there is something I learned about software development in the last 30 years it is that the smaller the steps you take, the faster and safer the progress is!
 Most IDEs today support refactoring by offering a wide range of automated refactoring transformations. 
 To my experience, when I refactor, I go safer and faster than rewrite. Much faster.
+1. S:
+On my team, we have many automated tests, you know, like unit tests and system tests. As with all changes, when we need to rewrite or improve the implementation of some unit, we make the change in a separate branch and we only merge it into the main trunk after all the tests pass. So my question is since we already have good safety mechanisms, why should we refactor on top on that and not simply make the nececcery changes as we do today? Refactoring is a slower method of implementing the change after all, no?!
+1. I:
+A very good question. First, you don't have to refactor. The reason I refactor, as I already mentioned, is because for me it is both faster and safer. Adding another safety mechanism is never a bad idea especially if it doesn't slow you down.
+
+Then, there is the advantage of faster, riskless integration. With refactoring there is no integration pain at the end of the change, as I belive we all have experienced when trying to merge a big change into the main branch.
+The reasone for this advantage is the continuse validity of the code. Since when I refactor my code is always valid, I can merge the latest change at any point in time. As a result, when I refactor, I tend to merge every few minutes. Obviusly it is impossible to have a significant conflict when each of the merged changes is by itself not significant.
+
+More than that, Since when I refactor I can always merge, I always have the option to end the refactoring activity and move on to another task without loosing the effort that was already made. With your approach, since you can only integrate at the end, it is much harder to pivot to another task when needed.
+
 1. I:
 Let me show you how it is done
