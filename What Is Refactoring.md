@@ -59,8 +59,11 @@ I'm glad you asked. First, you don't have to refactor. As I've already mentioned
 Then, there's the advantage of pain-less, risk-less integration. I believe we all have experienced integration pain as result of conflicts when trying to merge a big change. With refactoring it doesn't happen. Since the code is always valid, I tend to merge into the main branch every few minutes. Obviously it is impossible to have a significant conflict and when each of the merged changes is by itself of an insignificant size.
 More than that, since I merge so frequent, I always have the option to end the refactoring activity and move on to another task without losing the effort that was already made. With the big change approach, since you mostly integrate at the end, it is much harder to pivot to another task without losing work.
 1. N:
-This is all too abstract, I think a demo could help a lot.
+This discussion is a little too abstract for me, I think a demo could help a lot.
 1. I:
-Yep, I agree, thanks for reminding me, this is a workshop after all. In the next few episodes, we will experience refactoring in practice. We will start by presenting a significant code sample, then we will discuss the code smells and cleanup the mess using refactoring techniques.
+Yep, I agree, thanks for reminding me, this is a workshop after all. 
+In the next few episodes, we will experience refactoring in practice. 
+We will start by presenting a significant code sample, then we will discuss the code smells and cleanup
+the mess using refactoring techniques.
 1. I:
-So, stay with us. See you in the next episode
+It will be a lot of fun. So, stay with us. See you in the next episode
