@@ -23,7 +23,7 @@ He has seen it all, and he is a little stubborn, though, deep inside, he is open
 1. I:
 Newbie,
 1. N:
-Hey.
+Hi, Welcome.
 1. I:
 He is fresh out of college, He is about to start his first job as a software developer, and he is very excited about that.
 1. I:
@@ -48,14 +48,16 @@ If you think about it, there are many advantages in being animated characters. F
 Whoa, that's an interesting thought.
 1. I:
 So, where was I? Oh, I was just saying that you may ask yourself, why are we all animated characters?
-Why not just a regular green screen video? Or, even just a simple recorded presentation?
+Why not just a regular green screen video? Or, even a simple recorded presentation?
 Well, the answer is that just like with a software project, we think of this video as a living product.
 We want to be able to make changes and improvements based on your feedback.
 With animation, there is no need for a studio or long recording days. 
 We just change the script and voila, there is a new version of the video.
 Actually, the script of this video is by itself an open source project.
 If you have suggestions for how to improve these videos,
-You are more than welcome to make changes to the script and submit a pull request.
+You are more than welcome to make changes to the script and submit a pull request. 
+Alternatively, you can also open a new issue on the github project with your suggestion 
+and will make the necessary adjustments to the script.
 If your request is approved, it will be included in the next version of the video.
 1. I:
 So, shall we start?
