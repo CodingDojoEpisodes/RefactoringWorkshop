@@ -41,29 +41,11 @@ Yeh, how do you do that? How can you always be able to run the code without dela
 I achieve that by composing the change as a sequence of micro-steps called refactoring transformations. 
 Each transformation is a tiny change to the code’s structure that is promised to keep the behavior intact. 
 Since it takes no more than a few seconds to perform these transformations, my software is always valid and I can always run my current ‘under-development’ code.
-1. G:
-Micro-steps!?. I just don’t understand why would you choose to work like that.
-Breaking the change into such tiny steps seem so inefficient. There must be a price in time or effort you pay with this approach!
-1. I: 
-Well, I can surely understand why someone may perceive this approach to be somewhat expensive. 
-It takes a lot of discipline and practice before we can truly enjoy the fruits of this skill. 
-The temptation to just clean up the mess by one big rewrite is always there as well as the illusion of speed. 
-Have you considered the risk in rewriting an already working software? How many new defects will you introduce, how many days or weeks will it take to restabilize the system? With rewrite, can you really predict the price?
-If there is something I learned about software development in the last 30 years it is that the smaller the steps you take, the faster and safer the progress is!
-Most IDEs today support refactoring by offering a wide range of automated refactoring transformations. 
-To my experience, when I refactor, I go safer and faster than rewrite. Much faster.
-1. S:
-On my team, we have many automated tests, you know, like unit tests and system tests. As with all changes, when we need to rewrite or improve the implementation of some unit, we make the change in a separate branch and we only merge it into the main trunk after all the tests pass. So my question is since we already have good safety mechanisms, why should we refactor on top of that and not simply make the necessary changes as we do today? After all, refactoring is a slower method of implementing the change, no?!
-1. I:
-I'm glad you asked. First, you don't have to refactor. As I've already mentioned, I refactor since for me refactoring is both safer and faster. Adding another safety mechanism is never a bad idea especially if it doesn't slow you down. 
-Then, there's the advantage of pain-less, risk-less integration. I believe we all have experienced integration pain as result of conflicts when trying to merge a big change. With refactoring it doesn't happen. Since the code is always valid, I tend to merge into the main branch every few minutes. Obviously it is impossible to have a significant conflict and when each of the merged changes is by itself of an insignificant size.
-More than that, since I merge so frequent, I always have the option to end the refactoring activity and move on to another task without losing the effort that was already made. With the big change approach, since you mostly integrate at the end, it is much harder to pivot to another task without losing work.
-1. N:
-This discussion is a little too abstract for me, I think a demo could help a lot.
-1. I:
-Yep, I agree, thanks for reminding me, this is a workshop after all. 
-In the next few episodes, we will experience refactoring in practice. 
-We will start by presenting a significant code sample, then we will discuss the code smells and cleanup
-the mess using refactoring techniques.
-1. I:
-It will be a lot of fun. So, stay with us. See you in the next episode
+1. S: I have some doughts about the benefit of this workshop since I've just finished reading the Refactoring book and I'm pretty sure I understand the concept.
+1. I: oh, may I ask about your hobbies like arts or sports?
+1. S: Sure, I was dancing ballet since I was 5, I used to practice a lot, I still take dance classes whenever I have time.
+1. I: Nice, Could you become a dancer only by reading books and watching online materials?
+1. S: I find it hard to believe.
+1. I: Will you trust a heart surgeon without limited or limited experience?
+1. I: Do you think anyone could successfully ride bicycles for the first time just because they have good understanding of the phisics and gyroscopic effects involved in bicycle stability?
+1. I: Refactoring is not different. Books are important, though when it comes to building a skill, the best way is to practice with others that already know how to do it.
