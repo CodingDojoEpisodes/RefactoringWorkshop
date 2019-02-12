@@ -43,9 +43,9 @@ Each transformation is a tiny change to the code’s structure that is promised 
 Since it takes no more than a few seconds to perform these transformations, my software is always valid and I can always run my current ‘under-development’ code.
 1. S: I have some doubts about the benefit of this workshop since I've just finished reading the Refactoring book and I'm pretty sure I understand the concept.
 1. I: Oh, may I ask about your hobbies like arts or sports?
-1. S: Sure, I was dancing ballet since I was 5, I used to practice a lot, I still take dance classes whenever I have time.
+1. S: Sure, I've been dancing ballet since I was 5, I used to practice a lot, I still take dance classes whenever I have time.
 1. I: Nice, do you think you could become a good dancer only by reading books and watching online materials?
-1. S: I find it hard to believe.
+1. S: Oh, of course not.
 1. I: Would you trust a heart surgeon without proven practical experience?
 1. G: If that was case I wouldn't be here anymore.
 1. I: Do you think anyone could successfully ride bicycles for the first time just because they have a good understanding of the physics and gyroscopic effects involved in bicycle stability?
