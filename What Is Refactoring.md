@@ -41,7 +41,7 @@ Yeh, how do you do that? How can you always be able to run the code without dela
 I achieve that by composing the change as a sequence of micro-steps called refactoring transformations. 
 Each transformation is a tiny change to the code’s structure that is promised to keep the behavior intact. 
 Since it takes no more than a few seconds to perform these transformations, my software is always valid and I can always run my current ‘under-development’ code.
-1. S: I have some doughts about the benefit of this workshop since I've just finished reading the Refactoring book and I'm pretty sure I understand the concept.
+1. S: I have some doubts about the benefit of this workshop since I've just finished reading the Refactoring book and I'm pretty sure I understand the concept.
 1. I: Oh, may I ask about your hobbies like arts or sports?
 1. S: Sure, I was dancing ballet since I was 5, I used to practice a lot, I still take dance classes whenever I have time.
 1. I: Nice, do you think you could become a good dancer only by reading books and watching online materials?
