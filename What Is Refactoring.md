@@ -4,7 +4,7 @@ N: Newbie<br>
 S: Sharp<br>
 
 1. I:
-Refactoring, Refactoring… what is refactoring?
+Refactoring, I'm almost sure it's not a new concept to any of you. So, what is refactoring?
 1. G:
 Refactoring is when you clean up the mess after you write the code.
 1. N:
