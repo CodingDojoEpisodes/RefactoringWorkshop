@@ -47,6 +47,7 @@ Since it takes no more than a few seconds to perform these transformations, my s
 1. I: Nice, do you think you could become a good dancer only by reading books and watching online materials?
 1. S: I find it hard to believe.
 1. I: Would you trust a heart surgeon without proven practical experience?
+1. G: If that was case I wouldn't be here anymore.
 1. I: Do you think anyone could successfully ride bicycles for the first time just because they have a good understanding of the physics and gyroscopic effects involved in bicycle stability?
 1. N: Not with my bicycles.
 1. I: Refactoring is not different. Books are important, though when it comes to building a skill, the best way is to practice with others that already know how to do it.
