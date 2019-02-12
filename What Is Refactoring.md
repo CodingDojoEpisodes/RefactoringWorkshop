@@ -46,9 +46,10 @@ Since it takes no more than a few seconds to perform these transformations, my s
 1. S: Sure, I was dancing ballet since I was 5, I used to practice a lot, I still take dance classes whenever I have time.
 1. I: Nice, do you think you could become a good dancer only by reading books and watching online materials?
 1. S: I find it hard to believe.
-1. I: Will you trust a heart surgeon without proven practical experience?
-1. I: Do you think anyone could successfully ride bicycles for the first time just because they have good understanding of the phisics and gyroscopic effects involved in bicycle stability?
+1. I: Would you trust a heart surgeon without proven practical experience?
+1. I: Do you think anyone could successfully ride bicycles for the first time just because they have a good understanding of the physics and gyroscopic effects involved in bicycle stability?
+1. N: Not with my bicycles.
 1. I: Refactoring is not different. Books are important, though when it comes to building a skill, the best way is to practice with others that already know how to do it.
-1. N: So, if I understand correctly, the majority of the time is used for writing the software and just a small portion of the effort is about refactoring. Why investing in building a skill that is only rarely used?
+1. N: So, if I understand correctly, the majority of the time is used for implemeting new behavior and just a small portion of the effort is about refactoring. Why investing in building a new skill that is only rarely used?
 1. I: Oh, you got it all wrong, I should have made it more clear at the beginning. Refactoring is not a task on the task board that you do from time to time. Refactoring is an ongoing activity. In fact, I spend more time refactoring the existing code than adding new functionality. The development of almost every new feature starts with refactoring in order to make the necessary adjustments to the current design so that the new code will be elegantly introduced into the existing solution.
 1. I: More than that, as software developers, we spend most of our time reading code written by us and by others. As we browse through the code, we frequently come up with new ideas for adjustments and improvements that could have made the code easier to maintain. Developers with high awareness for software maintainability know that those great thoughts of improvement worth nothing unless they are rigorously applied to the code. We call this high awareness for software maintainability Clean Code Culture.
