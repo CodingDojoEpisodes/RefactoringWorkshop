@@ -4,7 +4,7 @@ N: Newbie<br>
 S: Sharp<br>
 
 1. I:
-Refactoring, Refactoring… what is refactoring?
+Refactoring, I'm pretty sure it's not a new concept to any of you. So, what is refactoring?
 1. G:
 Refactoring is when you clean up the mess after you write the code.
 1. N:
@@ -41,29 +41,19 @@ Yeh, how do you do that? How can you always be able to run the code without dela
 I achieve that by composing the change as a sequence of micro-steps called refactoring transformations. 
 Each transformation is a tiny change to the code’s structure that is promised to keep the behavior intact. 
 Since it takes no more than a few seconds to perform these transformations, my software is always valid and I can always run my current ‘under-development’ code.
-1. G:
-Micro-steps!?. I just don’t understand why would you choose to work like that.
-Breaking the change into such tiny steps seem so inefficient. There must be a price in time or effort you pay with this approach!
-1. I: 
-Well, I can surely understand why someone may perceive this approach to be somewhat expensive. 
-It takes a lot of discipline and practice before we can truly enjoy the fruits of this skill. 
-The temptation to just clean up the mess by one big rewrite is always there as well as the illusion of speed. 
-Have you considered the risk in rewriting an already working software? How many new defects will you introduce, how many days or weeks will it take to restabilize the system? With rewrite, can you really predict the price?
-If there is something I learned about software development in the last 30 years it is that the smaller the steps you take, the faster and safer the progress is!
-Most IDEs today support refactoring by offering a wide range of automated refactoring transformations. 
-To my experience, when I refactor, I go safer and faster than rewrite. Much faster.
-1. S:
-On my team, we have many automated tests, you know, like unit tests and system tests. As with all changes, when we need to rewrite or improve the implementation of some unit, we make the change in a separate branch and we only merge it into the main trunk after all the tests pass. So my question is since we already have good safety mechanisms, why should we refactor on top of that and not simply make the necessary changes as we do today? After all, refactoring is a slower method of implementing the change, no?!
-1. I:
-I'm glad you asked. First, you don't have to refactor. As I've already mentioned, I refactor since for me refactoring is both safer and faster. Adding another safety mechanism is never a bad idea especially if it doesn't slow you down. 
-Then, there's the advantage of pain-less, risk-less integration. I believe we all have experienced integration pain as result of conflicts when trying to merge a big change. With refactoring it doesn't happen. Since the code is always valid, I tend to merge into the main branch every few minutes. Obviously it is impossible to have a significant conflict and when each of the merged changes is by itself of an insignificant size.
-More than that, since I merge so frequent, I always have the option to end the refactoring activity and move on to another task without losing the effort that was already made. With the big change approach, since you mostly integrate at the end, it is much harder to pivot to another task without losing work.
-1. N:
-This discussion is a little too abstract for me, I think a demo could help a lot.
-1. I:
-Yep, I agree, thanks for reminding me, this is a workshop after all. 
-In the next few episodes, we will experience refactoring in practice. 
-We will start by presenting a significant code sample, then we will discuss the code smells and cleanup
-the mess using refactoring techniques.
-1. I:
-It will be a lot of fun. So, stay with us. See you in the next episode
+1. S: I have some doubts about the benefit of this workshop since I've just finished reading the Refactoring book and I'm pretty sure I understand the concept.
+1. I: Oh, may I ask about your hobbies like arts or sports?
+1. S: Sure, I've been dancing ballet since I was 5, I used to practice a lot, I still take dance classes whenever I have time.
+1. I: Nice, do you think you could become a good dancer only by reading books and watching online materials?
+1. S: Oh, of course not.
+1. I: Would you trust a heart surgeon without proven practical experience?
+1. G: If that was case I wouldn't be here anymore.
+1. I: Do you think anyone could successfully ride bicycles for the first time just because they have a good understanding of the physics and gyroscopic effects involved in bicycle stability?
+1. N: Not with my bicycles.
+1. I: Refactoring is not different. Books are important, though when it comes to building a skill, the best way is to practice with others that already know how to do it.
+1. N: So, if I understand correctly, the majority of the time is used for implemeting new behavior and just a small portion of the effort is about refactoring. Why investing in building a new skill that is only rarely used?
+1. I: Oh, you got it all wrong, I should have made it more clear at the beginning. Refactoring is not a task on the task board that you do from time to time. Refactoring is an ongoing activity. In fact, I spend more time refactoring the existing code than adding new functionality. The development of almost every new feature starts with refactoring in order to make the necessary adjustments to the current design so that the new code will be elegantly introduced into the existing solution.
+1. I: More than that, as software developers, we spend most of our time reading code written by us and by others. As we browse through the code, we frequently come up with new ideas for adjustments and improvements that could have made the code easier to maintain. Developers with high awareness for software maintainability know that those great thoughts of improvement worth nothing unless they are rigorously applied to the code. We call this high awareness for software maintainability Clean Code Culture.
+1. G: Ok, I think I got the idea, I just don't understand why? why would you choose to work like that? 
+1. N: Yea, and when? like do you always refactor, or are there cases where you choose a different technique?
+1. I: Mmm... these questions start a whole new discussion, the discussion of why and when we should refactor. I think it's a good time for a short break. We will answer these questions in the next episode. Stay with us.
