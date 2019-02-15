@@ -19,21 +19,21 @@ Take a look at this guy on the slackline. Clearly, the cost of making a mistake 
 1. I: In software, the safe small steps approach may save us a lot of time both immediately and in the long run. In the short run by almost eliminating the need to debug, and in the long run by avoiding new defects caused by a failure to preserve the exact same behavior. As it is most likely to happen with Rewrite.
 
 1. N: I understand Refactoring may be an alternative to rewrite in some cases, but in the previous episode you said refactoring is an ongoing activity that consumes a significant portion of your time. Why would you refactor code that already works?
-G: Yea, you know the old saying: “if it ain't broke, don't fix it”.
+1. G: Yea, you know the old saying: “if it ain't broke, don't fix it”.
 
-1. I: Think of refactoring as an investment. An investment of effort in the present in order to harvest the fruits in the future. Tell me, do you fold and sort your clothes after laundry before putting them in the closet? Or do you just store the basket of clean laundry in the corner of the room?
+1. I: Think of refactoring as an investment. An investment of effort in the present in order to harvest the fruits in the future. Tell me, do you fold and sort your clean clothes after laundry before putting them in the closet? Or do you just store the basket of clean laundry in the corner of the room?
 
 1. S: Ha, ha, my hose in no mess…
-1. I: Why? After all, it is much faster to just drop the clean laundry at the corner of the room and use your present time for doing something of more significant value. No?
+1. I: Why? After all, it is much faster to just drop the clean laundry at the corner of the room and use your time for doing something more significant. No?
 
 1. N: I prefer investing some time now rather than wasting my time later searching for clothes every time I get dressed.
 
 1. I: Me too, and I assume most of us will do the same.
 
 1. G: I keep my clothes nicely folded in the closet since otherwise, my wife will divorce me!
-1. I: Oh, I see what you’re saying, we are in the same boat! In general, when more than one person is involved, maintaining an agreed-on order becomes a critical factor for the effectiveness of the group.
+1. I: Oh, I see what you’re saying, we are in the same boat BTW! In general, when more than one person is involved, maintaining an agreed-on order becomes a critical factor for the effectiveness of the group.
 
-1. I: As for your question, Newbie, You asked if i would refactor code that already works. The answer is yes, I continuously, rigorously refactor for the exact same reasons I keep closet we organized, It saves time and effort for me and for any other developer that will ever have to understand the intent of the code.
+1. I: As for your question, Newbie, You asked if i would refactor code that already works. The answer is yes, I continuously, rigorously refactor for the exact same reasons I keep closet well organized, It saves time and effort for me and for any other developer that will ever have to understand the intent of the code.
 
 1. S: On my team, we have many automated tests, you know, like unit tests and system tests. As with all changes, when we need to rewrite or improve the implementation of some unit, we make the change in a separate branch and we only merge it into the main trunk after all the tests pass. So my question is since we already have good safety mechanisms, why should we refactor on top of that and not simply make the necessary changes as we do today? After all, refactoring is a slower method of implementing the change, no?!
 
