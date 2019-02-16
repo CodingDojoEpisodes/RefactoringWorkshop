@@ -6,7 +6,7 @@ S: Sharp<br>
 1. I: In the last episode, we described Refactoring as an ongoing effort of improving the code's structure while keeping its observable behavior unchanged. We mentioned that refactoring is performed in micro steps and that it takes time and practice to build our refactoring skills.
 1. I: We ended the last episode with some open questions I would like to address in this one. Grouchy, can you remind us of the question you've asked?
 1. G: Sure, I said I got a general idea, I just don't understand how micro steps make you go faster? It seems to me like a waste of time when you can simply rewrite the module!
-1. I: You are right, micro-steps don’t make you go faster. Micro steps make you go safer! It is the safety that we build into our everyday activities that makes us go faster. Wherever the cost of error is high, the only way to make fast progress is to make it safe.
+1. I: You are right, micro-steps don’t make you go faster. Micro-steps make you go safer! It is the safety that we build into our everyday activities that makes us go faster. Wherever the cost of error is high, the only way to make fast progress is to make it safe.
 Look at this guy on the slackline. Clearly, the cost of making a mistake is high, would you advise him to run or to take the smallest steps he can?
 1. G: I can see how small steps can help to keep the balance on a rope. Though, I still don’t see what this nice story has to do with software.
 1. I: The rationale behind constructing a bigger structural change as a sequence of smaller structural changes is that the smaller the change is, the easier it is to convince, or even to prove, it preserves the observable behavior. Thus, in software, small steps are safer since they significantly reduce the risk of introducing new defects. Reduced risk results in higher confidence, fewer defects, better predictability.
@@ -20,7 +20,7 @@ Look at this guy on the slackline. Clearly, the cost of making a mistake is high
 1. I: Me too, and I assume most of us will do the same.
 1. G: I keep my clothes nicely folded in the closet since otherwise, my wife will divorce me!
 1. I: Oh, I see what you’re saying, we are in the same boat BTW! In general, when more than one person is involved, maintaining an agreed-on order becomes a critical factor for the effectiveness of the group.
-1. I: As for your question, Newbie, you asked if i would refactor code that already works. The answer is yes, I continuously, rigorously refactor for the exact same reasons I keep closet well organized, It saves time and effort for me and for any other developer that will ever have to understand the intent of the code.
+1. I: As for your question, Newbie, you asked if i would refactor code that already works. The answer is yes, I continuously, rigorously refactor for the exact same reasons I keep closet well organized, It saves time and effort for me and for any other developer that will ever have to understand the intent of the code. For me, refactoring is an ongoing maintenance activity of making the code easier to read and change.
 1. S: On my team, we have many automated tests, you know, like unit tests and system tests. As with all changes, when we need to rewrite or improve the implementation of some unit, we make the change in a separate branch and we only merge it into the main trunk after all the tests pass. So my question is since we already have good safety mechanisms, why should we refactor on top of that and not simply make the necessary changes as we do today? After all, refactoring is a slower method of implementing the change, no?!
 1. I: I'm glad you asked. First, you don't have to refactor. As I've already mentioned, I refactor since for me refactoring is both safer and faster. Adding another safety mechanism is never a bad idea especially if it doesn't slow you down.
 1. I: May I ask what do the other team members do when they need to make changes to the same files you are working on?
@@ -41,6 +41,7 @@ With refactoring, we can completely avoid this waste. Since I merge so frequent,
 1. N: This discussion is a little too abstract for me, I think a demo could help a lot.
 1. I: Yep, I agree, thanks for reminding me, this is a workshop after all. 
 In the next few episodes, we will experience refactoring in practice. 
-We will start by presenting a significant code sample, then we will discuss the code smells and cleanup the mess using refactoring techniques.
+We will start by presenting a significant code sample, then we will discuss the code smells and clean up the mess using refactoring techniques.
 1. I: It will be a lot of fun. So, stay with us. See you in the next episode.
+
 
