@@ -69,8 +69,8 @@ Look at this guy on the slackline. Clearly, he is playing a very risky game, the
 1. I: Right, just like Waiting, Partially Done Work is considered a waste!
 With refactoring, we can completely avoid this waste. Since I merge so frequent, I always have the option to end the refactoring activity and move on to another task without losing the effort that was already made. That’s a big advantage.
 
-1: G: Ok, you got me on board, or at least I'm willing to give it a try. But what should I now tell my boss? That from now on I will spend half of my time refactoring? Do you want to get me fired?!
-1: S: Yea, I can't wait to see the look on our Product Owner face when we'll tell him we can't add the new feature since we need to refactor.
+1. G: Ok, you got me on board, or at least I'm willing to give it a try. But what should I now tell my boss? That from now on I will spend half of my time refactoring? Do you want to get me fired?!
+1. S: Yea, I can't wait to see the look on our Product Owner face when we'll tell him we can't add the new feature since we need to refactor.
 
 1. I: Well, I would simply say nothing!
 
