@@ -76,7 +76,7 @@ With refactoring, we can completely avoid this waste. Since I merge so frequent,
 
 1. G,S,N: You are out of your mind!
 
-1. I: I'm completely silver. When done with care, refactoring should not slow you down. With time, as you build your skill, you will find yourself preferring the refactoring approach in more and more situations. For me, in most cases, refactoring is the faster alternative. Remember, After all the responsibility, or even obligation for keeping the code at its best shape, is no one else's but ours. And yet, in those rare cases where you still must explain your activities to your superiors or the PO, I would simply suggest you have them watch this episode. If it got you on board, it may convince them as well.
+1. I: I'm completely sober. When done with care, refactoring should not slow you down. With time, as you build your skill, you will find yourself preferring the refactoring approach in more and more situations. For me, in most cases, refactoring is the faster alternative. Remember, After all the responsibility, or even obligation for keeping the code at its best shape, is no one else's but ours. And yet, in those rare cases where you still must explain your activities to your superiors or the PO, I would simply suggest you have them watch this episode. If it got you on board, it may convince them as well.
 
 1. N: This discussion is a little too abstract for me, I think a demo could help a lot.
 
