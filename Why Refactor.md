@@ -6,11 +6,13 @@ S: Sharp<br>
 1. I: In the last episode, we described Refactoring as an ongoing effort of improving the code's structure while keeping its observable behavior unchanged. We mentioned that refactoring is performed in micro steps and that it takes time and practice to build our refactoring skills.
 1. I: We ended the last episode with some open questions I would like to address in this one. Grouchy, can you remind us of the question you've asked?
 1. G: Sure, I said I got a general idea, I just don't understand how micro steps make you go faster? It seems to me like a waste of time when you can simply rewrite the module!
-1. I: You are right, micro-steps don’t make you go faster. Micro-steps make you go safer! It is the safety that we build into our everyday activities that makes us go faster. Wherever the cost of error is high, the only way to make fast progress is to make it safe.
-Look at this guy on the slackline. Clearly, the cost of making a mistake is high, would you advise him to run or to take the smallest steps he can?
+1. I: You are right, micro-steps don’t make you go faster. Micro-steps make you go safer! It is the safety that we build into our everyday activities that makes us go faster. Wherever both the probability and the cost of error are high, the only way to make fast progress is to make it safe.
+Look at this guy on the slackline. Clearly, he is playing a very risky game, the probability of making a mistake is very high as well as the cost of such a mistake, would you advise him to run to the end and get done with it or to take the smallest steps he can?
 1. G: I can see how small steps can help to keep the balance on a rope. Though, I still don’t see what this nice story has to do with software.
-1. I: The rationale behind constructing a bigger structural change as a sequence of smaller structural changes is that the smaller the change is, the easier it is to convince, or even to prove, it preserves the observable behavior. Thus, in software, small steps are safer since they significantly reduce the risk of introducing new defects. Reduced risk results in higher confidence, fewer defects, better predictability.
+1. I: Clearly, this is just a metaphor, as we all know, software development is an error-prone process, the tiniest change to any of the statements may result in malfunctioning software. The cost of such an error may get high as well, anyware between wasting the time of expensive workers and the actual damage it may cause to the users of the software system.
+1.I With software, the rationale behind constructing a bigger structural change as a sequence of smaller changes is that the smaller the change is, the easier it is to convince, or even to prove, it preserves the observable behavior. Thus, small steps are safer since they significantly reduce the risk of introducing new defects. 
 1. I: In software, the safe small steps approach may save us a lot of time both immediately and in the long run. In the short run by almost eliminating the need to debug, and in the long run by avoiding new defects caused by a failure to preserve the exact same behavior. As it is most likely to happen with Rewrite.
+When the risk of being surprised by an unexpected bug in the future is reduced, the confidence increases and the predictability improves.
 1. N: I understand Refactoring may be an alternative to rewrite in some cases, but in the previous episode you said refactoring is an ongoing activity that consumes a significant portion of your time. Why would you refactor code that already works?
 1. G: Yea, you know the old saying: “if it ain't broke, don't fix it”.
 1. I: Think of refactoring as an investment. An investment of effort in the present in order to harvest the fruits in the future. Tell me, do you fold and sort your clean clothes after laundry before putting them in the closet? Or do you just store the basket of clean laundry in the corner of the room?
@@ -43,5 +45,7 @@ With refactoring, we can completely avoid this waste. Since I merge so frequent,
 In the next few episodes, we will experience refactoring in practice. 
 We will start by presenting a significant code sample, then we will discuss the code smells and clean up the mess using refactoring techniques.
 1. I: It will be a lot of fun. So, stay with us. See you in the next episode.
+
+
 
 
