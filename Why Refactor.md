@@ -13,7 +13,7 @@ Look at this guy on the slackline. Clearly, he is playing a very risky game, the
 
 1. G: I can see how small steps can help to keep the balance on a rope. Though, I still don’t see what this nice story has to do with software.
 
-1. I: Clearly, this is just a metaphor, as we all know, computer programs are both complex and fragile and we humans are error-prone. So, with software, like with walking on a rope, the probability of making a mistake is pretty high. The cost of such an error may get high as well. Anyware between wasting the time of expensive workers and the actual damage to the users of the system. The reason small refactoring steps are safer is that it is easier to convince, or even to prove, they preserve the observable behavior. Thus, micro-steps significantly reduce the risk of introducing new defects.
+1. I: Clearly, this is just an analogy, as we all know, computer programs are both complex and fragile and we humans are error-prone. So, with software, like with walking on a rope, the probability of making a mistake is pretty high. The cost of such an error may get high as well. Anyware between wasting the time of expensive workers and the actual damage to the users of the system. The reason small refactoring steps are safer is that it is easier to convince, or even to prove, they preserve the observable behavior. Thus, micro-steps significantly reduce the risk of introducing new defects.
 
 1. I: The return on our investment is both immediate and in the long run. In the short run by almost eliminating the need to debug, and in the long run by avoiding new defects caused by a failure to preserve the exact same behavior. As it is most likely to happen with Rewrite. In both cases, we save a lot of time and money.
 
