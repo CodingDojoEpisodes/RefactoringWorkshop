@@ -33,7 +33,7 @@ Look at this guy on the slackline. Clearly, he is playing a very risky game, the
 
 1. G: I keep my clothes nicely folded in the closet since otherwise, my wife will divorce me!
 
-1. I: Oh, I see what you’re saying, we are in the same boat BTW! In general, when more than one person is involved, maintaining an agreed-on order becomes a critical factor for the effectiveness of the group.
+1. I: Oh, I see what you’re saying, we are in the same boat BTW! In general, when more than one person is involved, maintaining an agreed upon order becomes a critical factor for the effectiveness of the group.
 1. I: As for your question, Newbie, you asked if I would refactor code that already works. The answer is yes, I continuously, rigorously refactor for the exact same reasons I keep closet well organized, It saves time and effort for me and for any other developer that will ever have to understand the intent of the code. For me, refactoring is an ongoing maintenance activity of making the code easier to read and change.
 
 1. S: On my team, we have many automated tests, you know, like unit tests and system tests. As with all changes, when we need to rewrite or improve the implementation of some unit, we make the change in a separate branch and we only merge it into the main trunk after all the tests pass. So my question is since we already have good safety mechanisms, why should we refactor on top of that and not simply make the necessary changes as we do today? After all, refactoring is a slower method of implementing the change, no?!
@@ -42,17 +42,17 @@ Look at this guy on the slackline. Clearly, he is playing a very risky game, the
 
 1. I: May I ask what do the other team members do when they need to make changes to the same files you are working on?
 
-1. S: Sure, since we usually know what each of us is working on, and to avoid integration problems, we tend to wait for the other team member to complete and merge their task so that we can safely add our change on top of that.
+1. S: Sure, since we usually know what each of us is working on, and to avoid merge problems, we tend to wait for the other team member to complete and merge their task so that we can safely add our change on top of that.
 
 1. I: And, do you find waiting an efficient way of using the team’s time?
 
-1. S: Obviously not, you know, after all, nothing really blocks them from making their changes if they really can't wait, and I will handle the painful integration when I’ll merge.
+1. S: Obviously not, you know, after all, nothing really blocks them from making their changes if they really can't wait, and I will handle the painful conflicts when I’ll merge.
 
 1. I: Right, and since you know the merge at the end might be painful, how does it affect your coding habits as you make your change?
 
 1. S: Clearly, I try to avoid any unnecessary changes that may complicate merging at the end. Duh!
 
-1. I: So, you and all the other members on your team will, in general, avoid making occasional small code improvements because of the fear of complications it may impose on the integration process!?
+1. I: So, you and all the other members on your team will, in general, avoid making occasional small code improvements because of the fear of complications it may impose on the merging process!?
 
 1. S: Right, like, do you have any other suggestion?
 
