@@ -33,7 +33,7 @@ Look at this guy on the slackline. Clearly, he is playing a very risky game, the
 
 1. G: I keep my clothes nicely folded in the closet since otherwise, my wife will divorce me!
 
-1. I: Oh, I see what you’re saying, we are in the same boat BTW! In general, when more than one person is involved, maintaining an agreed upon order becomes a critical factor for the effectiveness of the group.
+1. I: Oh, I see what you’re saying, we are in the same boat BTW! In general, when more than one person is involved, maintaining an agreed upon order becomes a crucial factor for the effectiveness of the group.
 1. I: As for your question, Newbie, you asked if I would refactor code that already works. The answer is yes, I continuously, rigorously refactor for the exact same reasons I keep closet well organized, It saves time and effort for me and for any other developer that will ever have to understand the intent of the code. For me, refactoring is an ongoing maintenance activity of making the code easier to read and change.
 
 1. S: On my team, we have many automated tests, you know, like unit tests and system tests. As with all changes, when we need to rewrite or improve the implementation of some unit, we make the change in a separate branch and we only merge it into the main trunk after all the tests pass. So my question is since we already have good safety mechanisms, why should we refactor on top of that and not simply make the necessary changes as we do today? After all, refactoring is a slower method of implementing the change, no?!
