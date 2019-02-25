@@ -25,7 +25,7 @@ Look at this guy on the slackline. Clearly, he is playing a very risky game, the
 
 1. S: Ha, ha, my hose in no mess…
 
-1. I: Why? After all, it is much faster to just drop the clean laundry at the corner of the room and use your time for doing something more significant. No?
+1. I: Why is that? After all, it is much faster to just drop the clean laundry at the corner of the room and use your time for doing something more significant. No?
 
 1. N: I prefer investing some time now rather than wasting my time later searching for clothes every time I get dressed.
 
