@@ -9,7 +9,7 @@ S: Sharp<br>
 1. G: Sure, I said I got a general idea, I just don't understand how micro steps make you go faster? It seems to me like a waste of time when you can simply rewrite the module!
 
 1. I:I Agree, micro-steps don’t make you go faster. Micro-steps make you go safer! It is the safety that we build into our everyday activities that makes us go faster. Wherever both the probability and the cost of error are high, the only way to make fast progress is to make it safe.
-Look at this guy on the slackline. Clearly, he is playing a very risky game, the probability of making a mistake is very high as well as the cost of such a mistake, would you advise him to run to the end and get done with it or to take the smallest steps he can?
+1. I: Look at this guy on the slackline. Clearly, he is playing a very risky game, the probability of making a mistake is very high as well as the cost of such a mistake, would you advise him to run to the end and get done with it or to take the smallest steps he can?
 
 1. G:  I can see how small steps can help with keeping the balance on a rope. Though, I still can't understand what this nice story has to do with software.
 
