@@ -56,7 +56,7 @@ Clearly, I try to avoid any unnecessary changes that may complicate merging at t
 
 1. I: So, you and all your other team members will, in general, avoid making occasional small code improvements due to the fear of the complications it may impose on the merging process! right?
 
-1. S: Right, like, do you have any other suggestion?
+1. S: Right, like, do you have any other suggestions?
 
 1. I: Sure, we can avoid all that with refactoring, but before I explain how, I must say that to my experience the fear of change is a primary cause of code decay. Wherever there is fear of making improvements, for whatever reason, the code will slowly decay, the effort of adding new behavior will slowly rise until it reaches a point where it becomes unbearable. Whenever there is fear, the code will eventually rot even in the presence of safety mechanisms like unit tests.
 
