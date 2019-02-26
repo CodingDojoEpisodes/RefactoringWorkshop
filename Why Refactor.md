@@ -43,11 +43,11 @@ Look at this guy on the slackline. Clearly, he is playing a very risky game, the
 
 1. I: May I ask what do the other team members do when they need to make changes to the same files you are working on?
 
-1. S: Sure, since we usually know what each of us is working on, and to avoid merge problems, we tend to wait for the other team member to complete and merge their task so that we can safely add our change on top of that.
+1. S: Sure, since we usually know what each of us is working on, and to avoid merge problems, we tend to wait for the other team member to complete their task so that we can safely add our change on top of that.
 
 1. I: And, do you find waiting an efficient way of using the team’s time?
 
-1. S: Obviously not, you know, after all, nothing really blocks them from making their changes if they really can't wait, and I will handle the painful conflicts when I’ll merge.
+1. S: Obviously not. But,you know, they really could apply their changes if it's urgent, and I will handle the painful conflicts at the end when I merge my changes.
 
 1. I: Right, and since you know the merge at the end might be painful, how does it affect your coding habits as you make your changes?
 
