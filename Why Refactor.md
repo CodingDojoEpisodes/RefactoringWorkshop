@@ -17,7 +17,7 @@ Look at this guy on the slackline. Clearly, he is playing a very risky game, the
 
 1. I: The return on our investment is both immediate and in the long run. In the short run by almost eliminating the need to debug, and in the long run by avoiding new defects caused by a failure to preserve the exact same behavior. As it is most likely to happen with Rewrite. In both cases, we save a lot of time and money.
 
-1. N: I understand Refactoring may be an alternative to rewrite in some cases, but in the previous episode you said refactoring is an ongoing activity that consumes a significant portion of your time. Why would you refactor code that already works?
+1. N: I understand Refactoring may be an alternative to rewrite in some cases, but in the previous episode you said refactoring is an ongoing activity that consumes a significant portion of your time. Why would you refactor code that already works and has nothing to do with the task you're working on?
 
 1. G: Yea, you know the good old saying: “if it ain't broke, don't fix it”.
 
@@ -64,14 +64,14 @@ Clearly, I try to avoid any unnecessary changes that may complicate merging at t
 
 1. I: And I have one last question, with the big rewrite approach, when we have a task that may take several days or more. If due to some emergency or change in priority, you need to pivot to another task? What happens with all your unfinished effort?
 
-1. G: We keep the unfinished change in a separate branch in case we will decide to complete in the future.
+1. G: We keep the unfinished change in a separate branch in case we will decide to complete it in the future.
 
 1. S: Right, but in many cases, we will never complete the task since as the days go by, the code base continues to change, and the old task becomes less relevant and harder to merge.
 
 1. I: Right, just like Waiting, Partially Done Work is a waste we can completely avoid with refactoring.
 Since I merge so frequent, I always have the option to end the refactoring activity and move on to another task without losing the effort that was already made. That’s a big advantage.
 
-1. G: Ok, you got me on board, or at least I'm willing to give it a try. But what should I now tell my boss? That from now on I will spend half of my time refactoring? Do you want to get me fired?!
+1. G: Ok, you got me onboard, or at least I'm willing to give it a try. But what should I now tell my boss? That from now on I will spend half of my time refactoring? Do you want to get me fired?!
 1. S: Yea, I can't wait to see the look on our Product Owner's face when we'll tell him we can't add the new feature since we need to refactor.
 
 1. I: Well, I would simply say nothing!
