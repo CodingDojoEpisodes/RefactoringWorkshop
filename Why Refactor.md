@@ -51,7 +51,8 @@ Look at this guy on the slackline. Clearly, he is playing a very risky game, the
 
 1. I: Right, and since you know the merge at the end might be painful, how does it affect your coding habits as you make your changes?
 
-1. S: Clearly, I try to avoid any unnecessary changes that may complicate merging at the end. Duh!
+1. S: Well, I do the minimal amount of changes so that I don't complicate the merge at the end. 
+Clearly, I try to avoid any unnecessary changes that may complicate merging at the end. Duh!
 
 1. I: So, you and all your other team members will, in general, avoid making occasional small code improvements due to the fear of the complications it may impose on the merging process! right?
 
