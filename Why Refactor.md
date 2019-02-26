@@ -31,7 +31,7 @@ Look at this guy on the slackline. Clearly, he is playing a very risky game, the
 
 1. I: Me too, and I assume most of us will do the same.
 
-1. G: I keep my clothes nicely folded in the closet since otherwise, my wife will divorce me!
+1. G: I keep my stuff nicely folded in the closet since otherwise, my wife will divorce me!
 
 1. I: Oh, I see what you’re saying, we are in the same boat BTW! In general, when more than one person is involved, maintaining an agreed upon order becomes a crucial factor for the effectiveness of the group.
 
@@ -72,11 +72,11 @@ Clearly, I try to avoid any unnecessary changes that may complicate merging at t
 Since I merge so frequent, I always have the option to end the refactoring activity and move on to another task without losing the effort that was already made. That’s a big advantage.
 
 1. G: Ok, you got me on board, or at least I'm willing to give it a try. But what should I now tell my boss? That from now on I will spend half of my time refactoring? Do you want to get me fired?!
-1. S: Yea, I can't wait to see the look on our Product Owner face when we'll tell him we can't add the new feature since we need to refactor.
+1. S: Yea, I can't wait to see the look on our Product Owner's face when we'll tell him we can't add the new feature since we need to refactor.
 
 1. I: Well, I would simply say nothing!
 
-1. G,S,N: You are out of your mind!
+1. G,S,N: Are you out of your mind!
 
 1. I: I'm completely sober. When done with care, refactoring should not slow you down. With time, as you build your skill, you will find yourself preferring the refactoring approach in more and more situations. For me, in most cases, refactoring is the faster alternative. Remember, After all the responsibility, or even obligation for keeping the code at its best shape, is no one else's but ours. And yet, in those rare cases where you still must explain your activities to your superiors or the PO, I would simply suggest you have them watch this episode. If it got you on board, it may convince them as well.
 
