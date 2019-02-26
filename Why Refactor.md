@@ -11,7 +11,7 @@ S: Sharp<br>
 1. I:I Agree, micro-steps don’t make you go faster. Micro-steps make you go safer! It is the safety that we build into our everyday activities that makes us go faster. Wherever both the probability and the cost of error are high, the only way to make fast progress is to make it safe.
 Look at this guy on the slackline. Clearly, he is playing a very risky game, the probability of making a mistake is very high as well as the cost of such a mistake, would you advise him to run to the end and get done with it or to take the smallest steps he can?
 
-1. G: I can see how small steps can help to keep the balance on a rope. Though, I still don’t see what this nice story has to do with software.
+1. G:  I can see how small steps can help with keeping the balance on a rope. Though, I still can't understand what this nice story has to do with software.
 
 1. I: Clearly, this is just an analogy. As we all know, computer programs are both complex and fragile and we humans are error-prone. With software, like with walking on a rope, the probability of making a mistake is pretty high. The cost of such an error may get high as well. Anyware between wasting the time of expensive workers and the actual damage to the users of the system. The reason small refactoring steps are safer is that it is easier to convince, or even to prove, they preserve the observable behavior. Thus, micro-steps significantly reduce the risk of introducing new defects.
 
@@ -19,7 +19,7 @@ Look at this guy on the slackline. Clearly, he is playing a very risky game, the
 
 1. N: I understand Refactoring may be an alternative to rewrite in some cases, but in the previous episode you said refactoring is an ongoing activity that consumes a significant portion of your time. Why would you refactor code that already works?
 
-1. G: Yea, you know the old saying: “if it ain't broke, don't fix it”.
+1. G: Yea, you know the good old saying: “if it ain't broke, don't fix it”.
 
 1. I: I think of refactoring as an investment. An investment of effort in the present in order to harvest the fruits in the future. Tell me, do you fold your clean clothes after laundry and place them sorted in the closet? Or do you just store the basket of clean laundry in the corner of the room?
 
