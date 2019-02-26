@@ -23,7 +23,7 @@ Look at this guy on the slackline. Clearly, he is playing a very risky game, the
 
 1. I: I think of refactoring as an investment. An investment of effort in the present in order to harvest the fruits in the future. Tell me, do you fold your clean clothes after laundry and place them sorted in the closet? Or do you just store the basket of clean laundry in the corner of the room?
 
-1. S: Ha, ha, my hose in no mess…
+1. S: Oh me? You bet I do, I fold it right away, I like to keep my closet super clean.
 
 1. I: Why is that? After all, it is much faster to just drop the clean laundry at the corner of the room and use your time for doing something more significant. No?
 
