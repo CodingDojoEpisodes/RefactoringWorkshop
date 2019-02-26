@@ -64,7 +64,7 @@ Clearly, I try to avoid any unnecessary changes that may complicate merging at t
 
 1. I: And I have one last question, with the big rewrite approach, when we have a task that may take several days or more. If due to some emergency or change in priority, you need to pivot to another task? What happens with all your unfinished effort?
 
-1. G: We keep it in a separate branch in case we will decide to finish it in the future.
+1. G: We keep the unfinished change in a separate branch in case we will decide to complete in the future.
 
 1. S: Right, but in many cases, we will never complete the task since as the days go by, the code base continues to change, and the old task becomes less relevant and harder to merge.
 
