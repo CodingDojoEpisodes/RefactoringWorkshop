@@ -61,7 +61,7 @@ Clearly, I try to avoid any unnecessary changes that may complicate merging at t
 
 1. I: Refactoring helps us reduce fear in several ways. First, since micro steps are a safer approach, my general confidence while making the change is higher. Second, since the observable behavior is always preserved, I tend to merge into the main branch every few minutes. Obviously, it is impossible to have a significant conflict when each of the merged changes is by itself of insignificant size. Hence, the fear of complications as a result of merging a big change is eliminated as well.
 
-1. I: And I have one last question, with the big rewrite approach, when we have a task that may take several days or more. If due to some emergency or change in priority, you need to pivot to another task? What happens with all your unfinished effort?
+1. I: And I have one last question, with the big rewrite approach, when we have a task that may take several days or more. If due to some emergency or change in priority, you need to pivot to another task? What happens with all your unfinished work?
 
 1. G: We keep the unfinished change in a separate branch in case we will decide to complete it in the future.
 
@@ -83,6 +83,6 @@ Since I merge so frequent, I always have the option to end the refactoring activ
 
 1. I: Yep, I agree, thanks for reminding me, this is a workshop after all. 
 In the next few episodes, we will experience refactoring in practice. 
-We will start by presenting a significant code sample, then we will discuss the code smells and clean up the mess using refactoring techniques.
+We will start by presenting a significant code sample. Then we will discuss the code smells and clean up the mess using refactoring techniques.
 
 1. I: It will be a lot of fun. So, stay with us. See you in the next episode.
