@@ -53,7 +53,7 @@ S: Sharp<br>
 1. S: Well, I do the minimal amount of changes so that I don't complicate the merge at the end. 
 Clearly, I try to avoid any unnecessary changes that may complicate merging at the end. Duh!
 
-1. I: So, you and all your other team members will, in general, avoid making occasional small code improvements due to the fear of the complications it may impose on the merging process! right?
+1. I: So, you and all your other team members will, in general, avoid making occasional code improvements due to the fear of the complications it may impose on merging the change at the end! right?
 
 1. S: Right, like, do you have any other suggestions?
 
