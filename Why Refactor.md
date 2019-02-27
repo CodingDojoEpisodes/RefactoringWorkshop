@@ -20,7 +20,7 @@ S: Sharp<br>
 
 1. G: Yea, you know the good old saying: “if it ain't broke, don't fix it”.
 
-1. I: I think of refactoring as an investment. An investment of effort in the present in order to harvest the fruits in the future. Tell me, do you fold your clean clothes after laundry and place them sorted in the closet? Or do you just store the pile of clean laundry in the corner of the room?
+1. I: I think of refactoring as an investment. An investment of effort in the present in order to harvest the fruits in the future. Tell me, do you fold your clean clothes and place them sorted in the closet? Or do you just store the pile of clean laundry at the corner of the room?
 
 1. S: Oh me? You bet I do, I fold it right away, I like to keep my closet super clean.
 
@@ -48,7 +48,7 @@ S: Sharp<br>
 
 1. S: Obviously not. But,you know, they really could apply their changes if it's urgent, and I will handle the painful conflicts at the end when I merge my changes.
 
-1. I: Right, and since you know the merge at the end might be painful, how does it affect your coding habits as you make your changes?
+1. I: Right, and since you know the merge at the end might be painful, does it have any affect your coding habits as you make your changes?
 
 1. S: Well, I do the minimal amount of changes so that I don't complicate the merge at the end. 
 Clearly, I try to avoid any unnecessary changes that may complicate merging at the end. Duh!
