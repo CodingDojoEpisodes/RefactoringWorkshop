@@ -81,7 +81,7 @@ Since I merge so frequent, I always have the option to end the refactoring activ
 
 1. N: This discussion is a little too abstract for me, I think a demo could help a lot.
 
-1. I: Yep, I agree, thanks for reminding me, this is a workshop after all. 
+1. I: Yep, I agree, thanks for reminding me, it is a workshop after all. 
 In the next few episodes, we will experience refactoring in practice. 
 We will start by presenting a significant code sample. Then we will discuss the code smells and clean up the mess using refactoring techniques.
 
