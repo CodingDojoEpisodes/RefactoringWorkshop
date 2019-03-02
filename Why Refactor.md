@@ -79,7 +79,7 @@ Since I merge so frequent, I always have the option to end the refactoring activ
 
 1. I: I'm completely sober. After all the responsibility, or even obligation for keeping the code at its best shape, is no one else's but ours. Our job is to maintain a codebase that enables the fast delivery of new features. A messy pile of code lines will always fail with achieving this goal. You're simply doing your job! And yet, in those rare cases where you still must explain your activities to your managers or the PO, I would simply suggest you have them watch this episode. If it got you on board, it may convince them as well.
 
-1. I: Here is a short list of the advantages we've mentioned so far
+1. I: Here is a short list of the advantages we've mentioned so far.
 First, when compared with a rewrite, refactoring is a safer approach. If we take into consideration the time we save on debug and avoiding defects, it is also, in many cases, a faster one.
 We mentioned that refactoring is an ongoing maintenance activity of keeping the code at its best shape so that we can continue delivering business value at the fastest sustainable pace.
 We said that since the code is always kept valid, we tend to merge very often. This has 3 major advantages: 
