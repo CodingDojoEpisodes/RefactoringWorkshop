@@ -35,7 +35,7 @@ Well, she is sharp. A talented developer with 5 years of experience.
 1. I:
 They will ask the hard questions and take part in the discussion.
 1. I:
-You may ask yourself, why are we all animated characters.
+Now, you may ask yourself, why are we all animated characters?
 1. N:
 Whoa, whoa, wait a minute! What do you mean by animated characters? Are you suggesting we’re not real?
 1. S:
